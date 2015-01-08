@@ -1,19 +1,18 @@
 ---
-title: LinuxDay 2014 in Turin - My Slides
+title: SymfonyDay.it 2014 – My Slides
 layout: post-page
-excerpt: Today i spoke at LinuxDay 2014 here in Turin Italy. My talk with <a href="http://francescoficili.com/">Francesco Ficili</a> is about develop application with Raspberry Pi from the Hardware to Software implementation.
+excerpt: Few days ago i spoke at Symfony Day 2014 here in Italy. I discuss about Behat and Symfony2 in order to adopt BDD in our projects.
 ---
 
-## LinuxDay 2014 in Turin – My Slides
+## SymfonyDay.it 2014 – My Slides
 
 <p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
 <div>&nbsp;</div>
 
-Today i spoke at LinuxDay 2014 here in Turin Italy. My talk with Francesco Ficili is about develop application with
-Raspberry Pi from the Hardware to Software implementation.
+Few days ago i spoke at Symfony Day 2014 here in Italy. I discuss about Behat and Symfony2 in order to adopt BDD in our projects.
 
 
-Here you can find our slides:
+Here you can find my slides:
 
 <div class="row text-center">
 <iframe src="//www.slideshare.net/slideshow/embed_code/40713213" width="640" height="519" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/corleycloud/raspberry-pi-40713213" title="Raspberry Pi - HW/SW Application Development" target="_blank">Raspberry Pi - HW/SW Application Development</a> </strong> from <strong><a href="//www.slideshare.net/corleycloud" target="_blank">Corley S.r.l.</a></strong> </div>

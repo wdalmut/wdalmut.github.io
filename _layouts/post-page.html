@@ -1,0 +1,51 @@
+---
+layout: page
+---
+<div>&nbsp;</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-6">
+        {% if page.previous.url %}
+            <a class="col-md-12 text-left" href="{{ page.previous.url }}">← {{ page.previous.title }}</a>
+        {% endif %}
+        </div>
+        <div class="col-md-6">
+        {% if page.next.url %}
+            <a class="col-md-12 text-right" href="{{ page.next.url }}">{{ page.next.title }} →</a>
+        {% endif %}
+        </div>
+    </div>
+    <div class="col-md-12">
+        {{ content }}
+    </div>
+    <div>&nbsp;</div>
+    <div class="col-md-12">
+        <div class="col-md-6">
+        {% if page.previous.url %}
+            <a class="col-md-12 text-left" href="{{ page.previous.url }}">← {{ page.previous.title }}</a>
+        {% endif %}
+        </div>
+        <div class="col-md-6">
+        {% if page.next.url %}
+            <a class="col-md-12 text-right" href="{{ page.next.url }}">{{ page.next.title }} →</a>
+        {% endif %}
+        </div>
+    </div>
+</div>
+
+<div>&nbsp;</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'walterdalmut'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+

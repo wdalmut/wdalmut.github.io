@@ -1,6 +1,7 @@
 source: .
 destination: ./_site
 timezone: Europe/Rome
+highlighter: pygments
 exclude:
   - bower.json
   - Gruntfile.js
