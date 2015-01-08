@@ -1,0 +1,18 @@
+---
+title: Hello Page
+layout: single-column
+paginate: 10
+paginate_path: page/page:num/
+---
+
+{% for post in site.posts %}
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h6 class="text-center">{{ post.date | date: "%-d %B %Y" }}</h6><br>
+<div>
+{{ post.excerpt }}
+</div>
+<div>&nbsp;</div>
+<div>
+<a href="{{ post.url }}">Continue Reading →</a>
+</div>
+{% endfor %}

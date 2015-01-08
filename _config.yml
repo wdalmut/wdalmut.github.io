@@ -1,0 +1,12 @@
+source: .
+destination: ./_site
+timezone: Europe/Rome
+exclude:
+  - bower.json
+  - Gruntfile.js
+  - package.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - static/less/
+  - _site/
