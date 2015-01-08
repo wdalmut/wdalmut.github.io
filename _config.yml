@@ -10,3 +10,4 @@ exclude:
   - node_modules/
   - static/less/
   - _site/
+  - README.md
