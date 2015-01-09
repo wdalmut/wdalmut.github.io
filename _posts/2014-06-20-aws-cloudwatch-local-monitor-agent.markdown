@@ -18,11 +18,13 @@ The agent is listening for incoming UDP/IP packets on localhost, it collects and
 
 All messages are JSON objects that indicates the “namespace”, “metric name” and the metric “value” in this form (from 0.0.6 you can also put the unit and the operation type):
 
-    {
+{% highlight json %}
+{
     "namespace": "my-web-app",
     "metric": "database-query-time",
     "value": "12.42"
-    }
+}
+{% endhighlight %}
 
 The UDP/IP simplify all the communication problems and the datagram protocol create a sort of sandbox for the application that can send packets also in case of agent problems and failures (no guarantees on packages loss). The agent is designed to run locally (and only locally), in that way we can, reasonably, skip the UDP/IP packet  loss  problems.
 
@@ -32,7 +34,7 @@ You can find the [daemon here](https://github.com/wdalmut/cloudwatch-agent) (loc
 
 For PHP application i have written a simple client library
 
-{% highlight PHP %}
+{% highlight php %}
 <?php
 namespace Corley\CloudWatch;
 
