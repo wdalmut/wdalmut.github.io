@@ -4,6 +4,9 @@ timezone: Europe/Rome
 highlighter: pygments
 paginate: 10
 paginate_path: page/:num/
+name: Walter Dal Mut
+description: Just my personal blog (Walter Dal Mut)
+url: http://walterdalmut.com
 exclude:
   - bower.json
   - Gruntfile.js
