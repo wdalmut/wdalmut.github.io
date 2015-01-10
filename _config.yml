@@ -2,6 +2,8 @@ source: .
 destination: ./_site
 timezone: Europe/Rome
 highlighter: pygments
+paginate: 10
+paginate_path: page/page:num/
 exclude:
   - bower.json
   - Gruntfile.js
