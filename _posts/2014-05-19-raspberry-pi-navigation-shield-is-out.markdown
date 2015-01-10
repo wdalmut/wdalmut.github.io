@@ -19,7 +19,7 @@ In these days i start to debug the shield with different testing software in ord
 Here is the Raspberry Pi Navigation Shield!
 
 <div class="row text-center">
-<img src="/static/img/raspberry-navigation-shield.jpg" alt="raspberry navigation shield" />
+<img src="/static/img/posts/raspberry-navigation-shield.jpg" alt="raspberry navigation shield" />
 </div>
 
 If you are interested in this shield please let a comment!
