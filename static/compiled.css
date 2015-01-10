@@ -6318,3 +6318,6 @@ h2 a {
 .menu a {
   color: #686868;
 }
+.post-content p {
+  margin-bottom: 30px;
+}
