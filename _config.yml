@@ -3,7 +3,7 @@ destination: ./_site
 timezone: Europe/Rome
 highlighter: pygments
 paginate: 10
-paginate_path: page/page:num/
+paginate_path: page/:num/
 exclude:
   - bower.json
   - Gruntfile.js
