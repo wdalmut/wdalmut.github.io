@@ -4,12 +4,6 @@ layout: post-page
 excerpt: Few days ago i spoke at PHP CloudParty 2014 here in Italy. I discuss about scale PHP application with AWS Elastic Beanstalk
 permalink: /2014/10/24/scale-your-php-application-with-elastic-beanstalk/
 ---
-
-## Scale your PHP application with Elastic Beanstalk
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 Few days ago i spoke at PHP CloudParty 2014 here in Italy.
 I discuss about scale PHP application with AWS Elastic Beanstalk
 

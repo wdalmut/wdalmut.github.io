@@ -4,12 +4,6 @@ layout: post-page
 excerpt: When you manage an online application one the most important thing is resources monitoring in order to collect and understand internal metrics of your application and trigger alarms in case of problems (close feedback loop -> machine to machine networks). AWS CloudWatch is an interesting starting point but effectively send all your events directly to the cloud monitor can impact on your application.
 permalink: /2014/06/20/aws-cloudwatch-local-monitor-agent/
 ---
-
-## AWS CloudWatch local monitor agent
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 When you manage an online application one the most important thing is resources monitoring in order to collect and understand internal metrics of your application and trigger alarms in case of problems (close feedback loop -> machine to machine networks). AWS CloudWatch is an interesting starting point but effectively send all your events directly to the cloud monitor can impact on your application.
 
 

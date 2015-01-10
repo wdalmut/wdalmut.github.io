@@ -4,12 +4,6 @@ layout: post-page
 excerpt: Me and <a href="http://francescoficili.com/">Francesco Ficili</a> are working on different Raspberry Pi shields that helps us to solve common problems. The navigation shield add a GPS module and the inertial measurement unit in a stackable format for the Raspberry Pi board.
 permalink: /2014/05/19/raspberry-pi-navigation-shield-is-out/
 ---
-
-## Raspberry Pi Navigation Shield is out!
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 Me and Francesco Ficili are working on different Raspberry Pi shields that helps us to solve common problems. The navigation shield add a GPS module and the inertial measurement unit in a stackable format for the Raspberry Pi board.
 
 The shield adds also a couple of LED and connectors in order to expand features with external boards.

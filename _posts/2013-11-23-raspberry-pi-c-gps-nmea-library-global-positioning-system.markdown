@@ -4,12 +4,6 @@ layout: post-page
 excerpt: A couple of weeks ago I bought a Raspberry Pi and it is an interesting board&#58; ARM processor, 512MB RAM (v2) and many other things like GPIOs. I want to realize something that works with GPS and IMUs. This board, with raspbian and other linux based os, is not an embedded system, is more like a general purpose computer but with more interesting possibilities. First of all&#58; Go programming language is designed also for this kind of platforms (ARM based) and this open a wide set of incredible projects and with GPIOs we can communicate easily with different peripherals.
 permalink: /2013/11/23/raspberry-pi-c-gps-nmea-library-global-positioning-system/
 ---
-
-##  Raspberry Pi – C GPS NMEA library (Global Positioning System)
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 A couple of weeks ago I bought a Raspberry Pi and it is an interesting board: ARM processor, 512MB RAM (v2) and many other things like GPIOs. I want to realize something that works with GPS and IMUs. This board, with raspbian and other linux based os, is not an embedded system, is more like a general purpose computer but with more interesting possibilities. First of all: Go programming language is designed also for this kind of platforms (ARM based) and this open a wide set of incredible projects and with GPIOs we can communicate easily with different peripherals.
 
 Golang is not only designed also for ARMs but it has a very wonderful integration with C programs and libraries. For that reason I have decided to decouple the problem of realize something that can use GPS and IMUs boards in 2 main parts. The “lower part” developed in C that communicate and abstract the data layer and the second part (the general program) in Golang.

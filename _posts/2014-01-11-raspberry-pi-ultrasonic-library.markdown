@@ -4,12 +4,6 @@ layout: post-page
 excerpt: A couple of days ago I found an interesting breakout. The HC-SR04 ultrasonic sensor. It is so cheap, just 3€ (yes, three euros). Why not, why don’t buy it… There is a little problem with this component, it is TTL 0 – 5V. All Raspberry Pi GPIO, are 3,3V and not 5V tollerant. So I decided to skip this problem (yes i skip the problem… but, with a couple of resistor I think you can achieve a good solution), just because I don’t have any resistor at home… Now the point is -> Do i damaged my Raspberry Pi?
 permalink: /2014/01/11/raspberry-pi-ultrasonic-library/
 ---
-
-## Raspberry Pi – Ultrasonic Library
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 A couple of days ago I found an interesting breakout. The HC-SR04 ultrasonic sensor. It is so cheap, just 3€ (yes, three euros). Why not, why don’t buy it… There is a little problem with this component, it is TTL 0 – 5V. All Raspberry Pi GPIO, are 3,3V and not 5V tollerant. So I decided to skip this problem (yes i skip the problem… but, with a couple of resistor I think you can achieve a good solution), just because I don’t have any resistor at home… Now the point is: Do i damaged my Raspberry Pi?
 
 

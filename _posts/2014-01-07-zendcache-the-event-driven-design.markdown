@@ -4,12 +4,6 @@ layout: post-page
 excerpt: The event driven design of modern PHP frameworks is very useful and interesting. Different ZF2 components are designed with events as well. This feature, that adds different pre/post event abilities can solve different problems. One of those is to modify the caching layer configuration (ttl and others parameters) on different cacheable data.
 permalink: /2014/01/07/zendcache-the-event-driven-design/
 ---
-
-## Zend\Cache – The event driven design
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 The event driven design of modern PHP frameworks is very useful and interesting. Different ZF2 components are designed with events as well. This feature, that adds different pre/post event abilities can solve different problems. One of those is to modify the caching layer configuration (ttl and others parameters) on different cacheable data.
 
 

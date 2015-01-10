@@ -16,6 +16,12 @@ layout: page
         </div>
     </div>
     <div class="col-md-12 post-content">
+
+        <h2>{{ page.title }}</h2>
+
+        <p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
+        <div>&nbsp;</div>
+
         {{ content }}
     </div>
     <div>&nbsp;</div>

@@ -4,12 +4,6 @@ layout: post-page
 excerpt: GPIOs are super interesting in Raspberry Pi. My version of this board (Model B) has a couple of i2c buses available for use. GNU/Linux handle i2c as character devices. Thanks to this, is super easy develop something that communicate with i2c peripherals. My friend Gabriele Mittica bought an IMU breakout for Arduino and for the Grove shield, the MMA7660FC board. He gave that to me in order to try it with the Raspberry Pi board.
 permalink: /2013/11/30/raspberry-pi-imu-library-inertial-measurement-unit/
 ---
-
-## Raspberry Pi – IMU library (Inertial Measurement Unit)
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 GPIOs are super interesting in Raspberry Pi. My version of this board (Model B) has a couple of i2c buses available for use. GNU/Linux handle i2c as character devices. Thanks to this, is super easy develop something that communicate with i2c peripherals. My friend [Gabriele Mittica](http://www.gabrielemittica.com/) bought an IMU breakout for Arduino and for the Grove shield, the MMA7660FC board. He gave that to me in order to try it with the Raspberry Pi board.
 
 s bus is tipicaly easy, synchronous, low speed (by default 100khz [on RPI] and goes up to 400khz) few connections (is a serial bus) just the clock (synchronous) and the data (half-duplex). This particular accelerometer, MMA7660FC,  is interesting but with a little range of measurements, just 1.5g on 3 axises. It can be useful for detect orientation, tilt and other minor things.

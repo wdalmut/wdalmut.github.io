@@ -4,12 +4,6 @@ layout: post-page
 excerpt: I was one of ZFDay’s speakers, here in Turin on 7th February. I present a talk with title "Build your own (micro)framework with ZF2 components (as building blocks)". In practice i present how we can achieve an interesting result with just a couple of components. The framework that we have created at the conference is based on the event manager and relies on the service manager for getting and resolve internal/external services. In this little article i just want to explain more the framework.
 permalink: /2014/02/08/zend-framework-zfday-2014-turin/
 ---
-
-## Zend Framework (ZFDay) 2014 – Turin
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 I was one of ZFDay’s speakers, here in Turin on 7th February. I present a talk with title: Build your own (micro)framework with ZF2 components (as building blocks). In practice i present how we can achieve an interesting result with just a couple of components. The framework that we have created at the conference is based on the event manager and relies on the service manager for getting and resolve internal/external services. In this little article i just want to explain more the framework.
 
 Here you can find my slides:

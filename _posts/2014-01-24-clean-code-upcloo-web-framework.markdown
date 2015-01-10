@@ -4,14 +4,7 @@ layout: post-page
 excerpt: I have written about the UpCloo Web Framework  few months ago <a href="/2013/07/21/micro-framework-on-top-of-zf2-components/">(click here)</a> and, as the README.md says, the micro-framework (App.php) is quite a bit messy. At this time is important, before starting add new features, clean the code base a little bit and move on with the microframework. In order to do this I want to apply the Boy Scout Rule "Always leave the campground cleaner than you found it". First of all I ran all tests and I discover that App.php is poorly covered (only 46%) and many key features not at all (at commit c70375e6).
 permalink: /2014/01/24/clean-code-upcloo-web-framework/
 ---
-
-## Clean Code – UpCloo Web Framework
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 I have written about the UpCloo Web Framework  few months ago [(click here)](/2013/07/21/micro-framework-on-top-of-zf2-components/) and, as the README.md says, the micro-framework (App.php) is quite a bit messy. At this time is important, before starting add new features, clean the code base a little bit and move on with the microframework. In order to do this I want to apply the Boy Scout Rule: “Always leave the campground cleaner than you found it”. First of all I ran all tests and I discover that App.php is poorly covered (only 46%) and many key features not at all (at commit c70375e6).
-
 
 Its time to cover much more than this in order to change the code base. I see that the “bootstrap” operation is completely uncovered and the same is valid for listener registration and other important things. Its time to cover the application dispatching.
 

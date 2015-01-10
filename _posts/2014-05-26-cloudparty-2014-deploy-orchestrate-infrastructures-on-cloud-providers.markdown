@@ -2,13 +2,8 @@
 title: CloudParty 2014 – Deploy & Orchestrate infrastructures on Cloud Providers
 layout: post-page
 excerpt: On 21th of May i was one speaker of Cloud Party 2014 in Milan Italy. My speech was about deploy and orchestrate infrastructures on cloud providers. In particular my presentation is mainly focused on OpenStack but you can move to AWS (Amazon Web Services) or any other cloud provider.
+permalink: 2014/05/26/cloudparty-2014-deploy-orchestrate-infrastructures-on-cloud-providers/
 ---
-
-## CloudParty 2014 – Deploy & Orchestrate infrastructures on Cloud Providers
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 On 21th of May i was one speaker of Cloud Party 2014 in Milan Italy. My speech was about deploy and orchestrate infrastructures on cloud providers. In particular my presentation is mainly focused on OpenStack but you can move to AWS (Amazon Web Services) or any other cloud provider.
 
 Here you can find my slides:

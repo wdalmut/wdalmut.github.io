@@ -4,12 +4,6 @@ layout: post-page
 excerpt: Today i was one of CloudConf 2014 speakers. My talk is about Disaster Recovery & Cloud. Cloud Computing is very interesting for Disaster Recovery plans because of several features of Cloud infrastructures, like scalability, pay as you go etc.
 permalink: /2014/04/03/cloudconf-cloud-conference-2014-turin/
 ---
-
-## CloudConf (Cloud Conference) 2014 – Turin
-
-<p class="small text-center">{{ page.date | date: "%-d %B %Y" }}</p>
-<div>&nbsp;</div>
-
 Today i was one of CloudConf 2014 speakers. My talk is about Disaster Recovery  & Cloud. Cloud Computing is very interesting for Disaster Recovery plans because of several features of Cloud infrastructures, like: scalability, pay as you go etc.
 
 Here you can find my slides:
