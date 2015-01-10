@@ -2,6 +2,7 @@
 title: LinuxDay 2014 in Turin - My Slides
 layout: post-page
 excerpt: Today i spoke at LinuxDay 2014 here in Turin Italy. My talk with <a href="http://francescoficili.com/">Francesco Ficili</a> is about develop application with Raspberry Pi from the Hardware to Software implementation.
+permalink: /2014/10/25/linuxday-2014-in-turin-my-slides/
 ---
 
 ## LinuxDay 2014 in Turin – My Slides

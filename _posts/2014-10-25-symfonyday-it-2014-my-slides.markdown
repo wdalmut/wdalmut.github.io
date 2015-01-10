@@ -2,6 +2,7 @@
 title: SymfonyDay.it 2014 – My Slides
 layout: post-page
 excerpt: Few days ago i spoke at Symfony Day 2014 here in Italy. I discuss about Behat and Symfony2 in order to adopt BDD in our projects.
+permalink: /2014/10/25/symfonyday-it-2014-my-slides/
 ---
 
 ## SymfonyDay.it 2014 – My Slides
