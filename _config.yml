@@ -5,6 +5,7 @@ highlighter: pygments
 paginate: 10
 paginate_path: page/:num/
 exclude:
+  - CNAME
   - bower.json
   - Gruntfile.js
   - package.json
