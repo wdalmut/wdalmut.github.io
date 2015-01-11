@@ -9,6 +9,6 @@ post and keep things up about conferences and other stuffs.
 
 I migrate manually only latest articles but i can confirm that this new blog is
 100% compatible with the old WordPress that i have. I configured the same
-permalink strategy and Disquss and other stuffs.
+permalink strategy and Disqus and other stuffs.
 
 Thanks to Github Pages i can skip any hosting problem.
