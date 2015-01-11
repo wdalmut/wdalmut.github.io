@@ -6322,5 +6322,5 @@ h2 a {
   margin-bottom: 30px;
 }
 .post-content img {
-  width: 100%;
+  max-width: 100%;
 }
