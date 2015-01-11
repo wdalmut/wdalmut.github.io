@@ -2,7 +2,7 @@
 title: Scale your Magento app with Elastic Beanstalk
 layout: post-page
 excerpt: Few days ago i spoke at MageDay 2014 here in Italy with Gennaro Vietri from Bitbull. I discuss about scale PHP application with AWS Elastic Beanstalk
-permalink: /2014/10/24/scale-your-php-application-with-elastic-beanstalk/
+permalink: /2014/10/24/scale-your-magento-application-with-elastic-beanstalk/
 ---
 Few days ago i spoke at MageDay 2014 here in Italy with Gennaro Vietri from Bitbull.
 I discuss about scale your Magento application with AWS Elastic Beanstalk
