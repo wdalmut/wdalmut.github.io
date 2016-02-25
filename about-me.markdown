@@ -16,6 +16,20 @@ sul mare di Imperia ma vivo a Torino dal 2004.
 Mi sono laureato in Ingegneria Elettronica al Politecnico di Torino nel 2009.
 Qui trovate il mio curriculum su [LinkedIn](http://www.linkedin.com/in/walterdalmut)
 
+Ho ottenuto la certificazione come AWS Certified Solution Architect - Associate
+Level (Certificate AWS-ASA-11812) il 20 Novembre 2015
+
+<div class="row text-center" style="margin-bottom: 10px">
+    <img alt="AWS Certified Solution Architect" src="/static/img/Solutions-Architect-Associate.png"/>
+</div>
+
+Ho ottenuto la certificazione come AWS Certified SysOps Administrator - Associate
+Level (Certificate AWS-ASOA-2444) il 1 Dicembre 2015
+
+<div class="row text-center" style="margin-bottom: 10px">
+    <img alt="AWS Certified Solution Architect" src="/static/img/SysOps-Administrator-Associate.png"/>
+</div>
+
 Ho ottenuto la certificazione come Zend Framework 2 Certified Architect nel Dicembre 2013.
 
 <div class="row text-center" style="margin-bottom: 10px">
