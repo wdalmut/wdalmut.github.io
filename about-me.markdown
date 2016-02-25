@@ -41,7 +41,7 @@ Architect](http://www.zend.com/en/yellow-pages/ZEND024190)
 
 ### Hiring Me
 
-Potete assumermi tramite la mia Azienda [Corley S.r.l.](www.corley.it)
+Potete assumermi tramite la mia Azienda [Corley S.r.l.](http://www.corley.it/)
 I miei clienti vanno dalla grande azienda alle startup tecnologiche e tutto quello che c’è nel mezzo.
 
 ### Contact
