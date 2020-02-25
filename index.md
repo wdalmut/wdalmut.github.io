@@ -27,6 +27,15 @@ ufficiali:
 
 Ecco il link al mio [AWS Transcript ufficiale](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=VQQ9MT1KCBRE1DGB)
 
+### Kubernetes - Container Linux
+
+Ho ottenuto anche una certificazione: "Certified Kubernetes Application Developer"
+per il mondo dei container Linux ed orchestrazione di container per Kubernetes
+
+<div class="row text-center" style="margin-bottom: 10px">
+    <img alt="Certified Kubernetes Application Developer" src="/static/img/ckad.png"/>
+</div>
+
 ### Docker - Container Linux
 
 Ho ottenuto anche una certificazione: "Docker Certified Associate" per il mondo dei container
