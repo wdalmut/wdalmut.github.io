@@ -6,6 +6,8 @@ layout: single-column
 Mi sono laureato in Ingegneria Elettronica al Politecnico di Torino nel 2009.
 Qui trovate il mio curriculum su [LinkedIn](http://www.linkedin.com/in/walterdalmut)
 
+Puoi trovare la lista delle mie ultime certificazioni qui: [https://www.credly.com/users/wdalmut/badges](https://www.credly.com/users/wdalmut/badges)
+
 ### AWS - Amazon Web Services
 
 Ho ottenuto nel corso degli anni (a partire dal 2015) diverse certificazioni
