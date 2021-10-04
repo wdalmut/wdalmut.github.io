@@ -12,12 +12,14 @@ Ho ottenuto nel corso degli anni (a partire dal 2015) diverse certificazioni
 AWS (Amazon Web Services). Ad oggi ho attive e rinnovate 3 certificazioni
 ufficiali:
 
+ * AWS Machine Learning - Speciality
  * AWS Certified Solutions Architect - Professional
  * AWS Certified Solutions Architect - Associate
- * AWS Certified SysOps Administrator - Associate
+ * AWS Certified SysOps Administrator - Associate (Scaduta)
 
 <div class="row text-center" style="margin-bottom: 10px">
     <img alt="AWS Certified Solution Architect" src="/static/img/Solutions-Architect-Professional.png"/>
+    <img alt="AWS Certified Solution Architect" src="/static/img/AWS-MachineLearning-Specialty-2020.png"/>
 </div>
 
 <div class="row text-center" style="margin-bottom: 10px">
@@ -38,7 +40,7 @@ per il mondo dei container Linux ed orchestrazione di container per Kubernetes
 
 ### Docker - Container Linux
 
-Ho ottenuto anche una certificazione: "Docker Certified Associate" per il mondo dei container
+Ho ottenuto anche una certificazione: "Docker Certified Associate" per il mondo dei container (Scaduta)
 
 <div class="row text-center" style="margin-bottom: 10px">
     <img alt="Docker Certified Associate" src="/static/img/docker.jpg"/>
