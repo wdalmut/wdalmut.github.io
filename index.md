@@ -8,46 +8,6 @@ Qui trovate il mio curriculum su [LinkedIn](http://www.linkedin.com/in/walterdal
 
 Puoi trovare la lista delle mie ultime certificazioni qui: [https://www.credly.com/users/wdalmut/badges](https://www.credly.com/users/wdalmut/badges)
 
-### AWS - Amazon Web Services
-
-Ho ottenuto nel corso degli anni (a partire dal 2015) diverse certificazioni
-AWS (Amazon Web Services). Ad oggi ho attive e rinnovate 3 certificazioni
-ufficiali:
-
- * AWS Machine Learning - Speciality
- * AWS Certified Solutions Architect - Professional
- * AWS Certified Solutions Architect - Associate
- * AWS Certified SysOps Administrator - Associate (Scaduta)
-
-<div class="row text-center" style="margin-bottom: 10px">
-    <img alt="AWS Certified Solution Architect" src="/static/img/Solutions-Architect-Professional.png"/>
-    <img alt="AWS Certified Solution Architect" src="/static/img/AWS-MachineLearning-Specialty-2020.png"/>
-</div>
-
-<div class="row text-center" style="margin-bottom: 10px">
-    <img alt="AWS Certified Solution Architect" src="/static/img/Solutions-Architect-Associate.png"/>
-    <img alt="AWS Certified Solution Architect" src="/static/img/SysOps-Administrator-Associate.png"/>
-</div>
-
-Ecco il link al mio [AWS Transcript ufficiale](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=VQQ9MT1KCBRE1DGB)
-
-### Kubernetes - Container Linux
-
-Ho ottenuto anche una certificazione: "Certified Kubernetes Application Developer"
-per il mondo dei container Linux ed orchestrazione di container per Kubernetes
-
-<div class="row text-center" style="margin-bottom: 10px">
-    <img alt="Certified Kubernetes Application Developer" src="/static/img/ckad.png"/>
-</div>
-
-### Docker - Container Linux
-
-Ho ottenuto anche una certificazione: "Docker Certified Associate" per il mondo dei container (Scaduta)
-
-<div class="row text-center" style="margin-bottom: 10px">
-    <img alt="Docker Certified Associate" src="/static/img/docker.jpg"/>
-</div>
-
 ### Hiring Me
 
 Potete assumermi tramite la mia Azienda [Corley S.r.l.](http://corley.it/)
